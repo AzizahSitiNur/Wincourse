@@ -16,3 +16,6 @@ Adalah tampilan yang berisi testimoni oleh para pengguna lama yang ditujukan unt
 
 ![Kontak](img/kontak.png)
 Bagian footer yang berisi kontak untuk menghubungi Wincourse apabila ingin mendaftar atau ada kendala
+
+
+Demikianlah penjelasan mengenai tampilan website Wincourse, semoga membantu^^
